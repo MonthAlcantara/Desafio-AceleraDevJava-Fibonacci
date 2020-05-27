@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-19T17:35:05" hostname="Lenovo-PC" time="0.05">
+<testsuite name="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-05-01T15:58:41" hostname="Lenovo-PC" time="0.053">
   <properties/>
-  <testcase name="fibonacciTemTamanho15" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.015"/>
+  <testcase name="fibonacciTemTamanho15" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.019"/>
   <testcase name="isNotFibonacci12" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.0"/>
   <testcase name="isFibonacci377" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.0"/>
   <testcase name="fibonacciSequenciaCorreta" classname="br.com.codenation.desafioexe.DesafioApplicationSubmitTest" time="0.032"/>
